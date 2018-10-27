@@ -1,4 +1,4 @@
-# Pull Request Tutorial
+# A Guide  to Pull Request 
 
 ## What is a Pull Request?
 From Github's [Using Pull Requests Page](https://help.github.com/articles/using-pull-requests)
